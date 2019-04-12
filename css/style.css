@@ -87,6 +87,15 @@ section h3.section-subheading {
   box-shadow: 0 0 0 0.2rem rgba(3, 106, 130, 0.5) !important;
 }
 
+
+.header-top-button{
+    padding: 10px;
+}
+
+.sprint-deployment-button{
+    padding-bottom: 50px;
+}
+
 ::selection {
   background: #005976;
   text-shadow: none;
